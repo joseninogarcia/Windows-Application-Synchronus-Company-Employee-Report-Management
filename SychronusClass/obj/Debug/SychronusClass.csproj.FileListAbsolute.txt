@@ -1,0 +1,5 @@
+D:\Microsoft Visual Studio Files\LocalScheduler\SynchronusSoftware\SychronusClass\bin\Debug\SychronusClass.dll
+D:\Microsoft Visual Studio Files\LocalScheduler\SynchronusSoftware\SychronusClass\bin\Debug\SychronusClass.pdb
+D:\Microsoft Visual Studio Files\LocalScheduler\SynchronusSoftware\SychronusClass\obj\Debug\SychronusClass.dll
+D:\Microsoft Visual Studio Files\LocalScheduler\SynchronusSoftware\SychronusClass\obj\Debug\SychronusClass.pdb
+D:\Microsoft Visual Studio Files\LocalScheduler\SynchronusSoftware\SychronusClass\obj\Debug\SychronusClass.csprojResolveAssemblyReference.cache
